@@ -1,9 +1,6 @@
 // for explanation visit 
 // https://tradecoder.com/dev/javascript/how-to-find-the-symmetric-difference/
 
-
-
-
 function sym(args){
 
   const elements = Array.from(arguments)
